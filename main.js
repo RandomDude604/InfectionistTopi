@@ -4,8 +4,6 @@ function firstMessage() {
 
   setInterval(myTime, 1000);
 function myTime() {
-
-
   const d = new Date();
   document.getElementById("time").innerHTML = d.toLocaleTimeString();
 }

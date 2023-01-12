@@ -4,7 +4,15 @@ h1  {
 .header {
     padding: 60px;
     text-align: center;
-    background: #1abc9c;
-    color: white;
+    background: #631abcb9;
+    color: rgba(255, 255, 255, 0.847);
     font-size: 30px;
   }
+
+.socials {
+    padding: 40px;
+    text-align: center;
+    background: #7d2ecdb9;
+    color: rgba(255, 255, 255, 0.847);
+    font-size: 18px;
+}
