@@ -16,3 +16,39 @@ h1  {
     color: rgba(255, 255, 255, 0.847);
     font-size: 18px;
 }
+
+.shop {
+    padding: 40px;
+    text-align: center;
+    background: #8c34e4b9;
+    color:rgba(255, 255, 255, 0.847);
+    font-size: 30px;
+}
+
+.menu { 
+    display: block; 
+    width: 200px; 
+    height: 100px;
+    text-align: center;
+    padding-top: 40px;
+    }
+
+:link {
+    color: beige;
+}
+
+:visited {
+    color:rgba(251, 157, 157, 0.847)
+}
+
+.theme-light {
+    --color-primary: #0060df;
+    --color-secondary: #fbfbfe;
+    --color-accent: #fd6f53;
+ }
+
+ .theme-dark {
+    --color-primary: #17ed90;
+    --color-secondary: #243133;
+    --color-accent: #12cdea;
+ }
