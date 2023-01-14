@@ -42,13 +42,9 @@ h1  {
 }
 
 .theme-light {
-    --color-primary: #0060df;
-    --color-secondary: #fbfbfe;
-    --color-accent: #fd6f53;
+    background-color: white;
  }
 
  .theme-dark {
-    --color-primary: #17ed90;
-    --color-secondary: #243133;
-    --color-accent: #12cdea;
+    background-color: black;
  }
