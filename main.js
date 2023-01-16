@@ -1,5 +1,5 @@
 function firstMessage() {
-    document.getElementById("first-message").innerHTML = "Feel Free to Explore! I'm still learning as I'm making this sorry about the bugs and all!";
+    document.getElementById("first-message").innerHTML = "Feel Free to Explore! I'm still learning as I'm making this sorry about the bugs and all! This should also be done sometime in life, no idea when, and if you're a procastinator like me.. then you'll understand";
   }
 
   setInterval(myTime, 1000);
