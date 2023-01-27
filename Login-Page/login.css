@@ -1,5 +1,7 @@
 .head {
-    background-color:#631abcb9
+    background-color:#631abcb9;
+    mix-blend-mode:hard-light;
+    padding-bottom: 600px;
 }
 
 .background {
