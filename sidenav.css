@@ -27,3 +27,11 @@
     font-size: 28px; /* Increased text to enable scrolling */
     padding: 0px 10px;
  }
+
+ .theme-light {
+   background-color: white;
+}
+
+.theme-dark {
+   background-color: black;
+}
