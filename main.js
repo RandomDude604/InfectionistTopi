@@ -27,12 +27,13 @@ function toggleTheme() {
   } else {
       setTheme('theme-light');
   }
-})();
+})()
 
+setInterval(currentDate, 1000);
 function currentDate() {
   const weekday = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
 
   const d = new Date();
   let day = weekday[d.getDay()];
-  document.getElementById("Date").innerHTML = day;
+  document.getElementById("date").innerHTML = day;
 }
