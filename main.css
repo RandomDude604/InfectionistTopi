@@ -7,7 +7,7 @@ h1  {
     text-align: center;
     background: #631abcb9;
     color: rgba(255, 255, 255, 0.847);
-    font-size: 30px;
+    font-size: 22px;
     font: Segoe UI;
   }
 
@@ -53,3 +53,13 @@ h1  {
  .theme-dark {
     background-color: black;
  }
+
+.date_time {
+    margin-left: 110px;
+    padding: 60px;
+    text-align: center;
+    background: #631abcb9;
+    color: rgba(255, 255, 255, 0.847);
+    font-size: 26px;
+    font: Garamond;
+}

@@ -29,7 +29,7 @@ function toggleTheme() {
   }
 })()
 
-setInterval(currentDate, 1000);
+  setInterval(currentDate, 1000);
 function currentDate() {
   const weekday = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
 
